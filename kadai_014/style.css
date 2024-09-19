@@ -1,0 +1,39 @@
+@charset "UFT-8";
+
+html {
+    font-size: 20px;
+}
+body {
+    font-family: "arial", "meiryo", sans-serif;
+}
+
+.ttl {
+    font-size: 2em;
+    border-bottom: solid 3px rgb(115, 115, 114) ;
+    text-align: center;
+    font-family: "Josefin Sans", system-ui;
+    letter-spacing: 1.2rem;
+    text-shadow: 1px 1px 2px rgb(71, 68, 68);
+}
+
+
+
+.txt-color1, .blue {
+    color: skyblue;
+}
+
+.txt-color2, .pink {
+    color: rgb(255, 192, 203);
+}
+
+#basic, #profile {
+    text-align: center;
+}
+
+#basic p {
+    font-weight: bold;
+}
+
+
+
+
