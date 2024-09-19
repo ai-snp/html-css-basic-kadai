@@ -7,12 +7,11 @@ body {
     font-family: "arial", "meiryo", sans-serif;
 }
 
-.ttl {
-    font-size: 2em;
+.decoration {
+    font-size: 2rem;
+    letter-spacing: 1.2em;
     border-bottom: solid 3px rgb(115, 115, 114) ;
-    text-align: center;
     font-family: "Josefin Sans", system-ui;
-    letter-spacing: 1.2rem;
     text-shadow: 1px 1px 2px rgb(71, 68, 68);
 }
 
@@ -26,7 +25,7 @@ body {
     color: rgb(255, 192, 203);
 }
 
-#basic, #profile {
+.decoration, #basic, #profile {
     text-align: center;
 }
 
